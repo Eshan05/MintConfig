@@ -1,0 +1,19 @@
+configuration{
+    modi: "drun,run,window,filebrowser";
+    icon-theme: "Oranchelo";
+    show-icons: false;
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: true;
+    display-drun: "   Apps ";
+    display-run: "   Run ";
+    display-window: " 﩯  Window";
+    display-Network: " 󰤨  Network";
+    display-filebrowser: " Files";
+    sidebar-mode: true;
+}
+
+// @import "full.rasi"
+// @theme "nord.rasi"
+@theme "catppuccin-mocha"
+// @theme "/home/xnv/.config/rofi/themes/nord.rasi"
